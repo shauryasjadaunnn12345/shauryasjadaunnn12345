@@ -2,7 +2,7 @@
 
 🚀 Backend Developer | 🤖 AI/ML Enthusiast | 🧠 LLM Builder  
 
-I am a **Backend Developer (Django,Node.js,Next.js)** with strong foundations in **Data Structures & Algorithms (C++)** and growing expertise in **AI/ML systems**.
+I am a **Backend Developer (Django,MERN)** with strong foundations in **Data Structures & Algorithms (C++)** and growing expertise in **AI/ML systems**.
 
 I specialize in building:
 - ⚙️ Scalable backend systems using Django
