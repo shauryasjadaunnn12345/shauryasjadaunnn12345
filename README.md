@@ -94,12 +94,11 @@ I like building things where backend engineering meets intelligent automation �
 
 | Project | What it does |
 |---|---|
-| 🤖 [**ZeroCodeBots**](https://github.com/shauryasjadaunnn12345/zerocodebots) | No-code platform to build, embed, and analyze AI chatbots — Django backend, one-line embed, live analytics dashboard |
-| ⚡ [**AdSync AI**](https://github.com/shauryasjadaunnn12345/AdSync-AI) | AI-powered landing page personalization — turns ad creatives into high-converting pages using AI + CRO principles |
-| 🧠 [**StartupValidator.in**](https://github.com/shauryasjadaunnn12345/startupvalidator) | Peer + AI validation platform for startup ideas — a three-layer review system combining founder feedback and AI analysis |
+| ⚖️ [**VeriDispute AI**](https://github.com/shauryasjadaunnn12345/VeriDisputeAI) | End-to-end credit card dispute resolution — LLM evidence extraction, rule-based scoring, XGBoost prediction with SHAP explainability, confidence-based human routing |
 | 🌐 [**Multi-Threaded File Server**](https://github.com/shauryasjadaunnn12345/Multi-Threaded-File-Server) | High-performance C++ file server built with POSIX Threads, Shared Memory, and Semaphores — demonstrates core OS & concurrency concepts |
-| 💳 [**Fraud Detection System**](https://github.com/shauryasjadaunnn12345/Fraud-Detection) | ML-based fraud detection pipeline — from EDA to a deployed Streamlit app predicting fraudulent transactions |
-| 🧠 [**MentalHealthMatters**](https://github.com/shauryasjadaunnn12345/mentalhealthmatters) | Psychological self-assessment platform with AI-assisted insights and emotional trend tracking |
+| 🤖 [**ZeroCodeBots**](https://github.com/shauryasjadaunnn12345/zerocodebots) | No-code platform to build, embed, and analyze AI chatbots — Django backend, one-line embed, live analytics dashboard |
+| 🧠 [**StartupValidator.in**](https://github.com/shauryasjadaunnn12345/startupvalidator) | Peer + AI validation platform for startup ideas — a three-layer review system combining founder feedback and AI analysis |
+| 🧠 [**ClinNote AI**](https://github.com/shauryasjadaunnn12345/Clinnote) | AI-powered psychiatric documentation platform — converts raw session notes into structured SOAP/DAP/BIRP/GIRP clinical notes |
 
 🔎 Explore all repositories → [github.com/shauryasjadaunnn12345](https://github.com/shauryasjadaunnn12345?tab=repositories)
 
