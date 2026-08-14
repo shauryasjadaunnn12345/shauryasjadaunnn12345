@@ -1,135 +1,316 @@
 <h1 align="center">Hi, I'm Shaurya Singh Jadaun 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Django+%2B+Python;AI%2FML+Enthusiast+%7C+LLM+Builder;Linux+%7C+Systems+Programming+%7C+C%2B%2B;Building+scalable%2C+intelligent+backend+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Django+%2B+Python;AI%2FML+Enthusiast+%7C+LLM+Builder;Linux+%7C+Systems+Programming+%7C+C%2B%2B;Building+scalable%2C+intelligent+backend+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Core-C%2B%2B%20%7C%20DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="AI ML" />
+  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Core-C%2B%2B%20%7C%20DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ DSA" />
 </p>
 
 <p align="center">
   <a href="#-about-me">About</a> •
-  <a href="#-current-focus">Current Focus</a> •
+  <a href="#-current-focus">Focus</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Featured Projects</a> •
-  <a href="#-github-stats">GitHub Stats</a> •
-  <a href="#-lets-connect">Let's Connect</a>
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-stats">Stats</a> •
+  <a href="#-lets-connect">Connect</a>
 </p>
 
 ---
 
 ## 💫 About Me
 
-I'm a **Backend Developer** who builds scalable systems with **Django** and **Python**, with strong fundamentals in **Data Structures & Algorithms (C++)** and growing expertise in **AI/ML** and **LLM-powered applications**.
+I'm a **Backend Developer** focused on building scalable applications with **Python, Django, and REST APIs**, with strong foundations in **C++, Data Structures & Algorithms, Linux, and Computer Science fundamentals**.
 
-- 🔹 Backend-focused engineer — Django, REST APIs, system design
-- 🔹 Comfortable across the stack — MERN for full-stack work when needed
-- 🔹 Building LLM pipelines with LangChain & LangGraph, backed by solid prompt engineering
-- 🔹 Strong DSA foundation in C++, with hands-on systems programming (POSIX threads, IPC, Linux)
-- 🔹 CS fundamentals: OOP, OS, DBMS, SQL
-- 🔹 Deploying and running projects on Linux servers, Render, and the cloud
+I'm also building expertise in **AI/ML, Generative AI, LLM applications, and RAG systems**.
 
-I like building things where backend engineering meets intelligent automation — real applications, not just notebooks.
+* 🔹 Backend development with Django & Django REST Framework
+* 🔹 REST API design, authentication & database architecture
+* 🔹 AI/ML and LLM-powered applications
+* 🔹 LangChain, LangGraph, RAG & prompt engineering
+* 🔹 C++ / DSA / Linux systems programming
+* 🔹 PostgreSQL, SQL & database design
+* 🔹 Cloud deployment and Linux server environments
+
+> I enjoy building real-world products where **backend engineering meets AI**.
 
 ---
 
 ## 🧠 Current Focus
 
-- ⚙️ Advanced Django backend architecture & system design
-- 🤖 Designing and shipping LLM pipelines (LangChain, LangGraph)
-- 🐧 Deepening Linux systems programming (concurrency, IPC, performance)
-- 📈 Sharpening AI/ML fundamentals — from classical ML to applied NLP
+* ⚙️ Advanced Django backend architecture & system design
+* 🤖 LLM applications, RAG pipelines & AI agents
+* 🧠 Applied Machine Learning & NLP
+* 🐧 Linux systems programming, concurrency & IPC
+* ☁️ Cloud deployment and scalable backend infrastructure
+* 📚 Improving DSA and core CS fundamentals
 
 ---
 
 ## 💻 Tech Stack
 
-### 🔧 Backend & Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🔧 Languages
 
-### 🐧 Linux & Systems
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![POSIX](https://img.shields.io/badge/POSIX-Threads%20%7C%20IPC-333333?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript" alt="Languages" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+---
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" alt="Backend Technologies" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge" alt="JWT Authentication" />
+</p>
+
+---
 
 ### 🤖 AI / ML
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-LLM-green?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-blue?style=for-the-badge)
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI ML" />
+</p>
 
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-5A29E4?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+</p>
+
+---
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend Technologies" />
+</p>
+
+---
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase" alt="Databases" />
+</p>
+
+---
+
+### 🐧 Linux & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux Systems" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/POSIX%20Threads-333333?style=for-the-badge" alt="POSIX Threads" />
+  <img src="https://img.shields.io/badge/IPC-333333?style=for-the-badge" alt="IPC" />
+  <img src="https://img.shields.io/badge/Shared%20Memory-333333?style=for-the-badge" alt="Shared Memory" />
+  <img src="https://img.shields.io/badge/Semaphores-333333?style=for-the-badge" alt="Semaphores" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,cloudflare" alt="Cloud and DevOps" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" alt="Developer Tools" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does |
-|---|---|
-| ⚖️ [**VeriDispute AI**](https://github.com/shauryasjadaunnn12345/VeriDisputeAI) | End-to-end credit card dispute resolution — LLM evidence extraction, rule-based scoring, XGBoost prediction with SHAP explainability, confidence-based human routing |
-| 🌐 [**Multi-Threaded File Server**](https://github.com/shauryasjadaunnn12345/Multi-Threaded-File-Server) | High-performance C++ file server built with POSIX Threads, Shared Memory, and Semaphores — demonstrates core OS & concurrency concepts |
-| 🤖 [**ZeroCodeBots**](https://github.com/shauryasjadaunnn12345/zerocodebots) | No-code platform to build, embed, and analyze AI chatbots — Django backend, one-line embed, live analytics dashboard |
-| 🧠 [**StartupValidator.in**](https://github.com/shauryasjadaunnn12345/startupvalidator) | Peer + AI validation platform for startup ideas — a three-layer review system combining founder feedback and AI analysis |
-| 🧠 [**ClinNote AI**](https://github.com/shauryasjadaunnn12345/Clinnote) | AI-powered psychiatric documentation platform — converts raw session notes into structured SOAP/DAP/BIRP/GIRP clinical notes |
+### ⚖️ VeriDispute AI
 
-🔎 Explore all repositories → [github.com/shauryasjadaunnn12345](https://github.com/shauryasjadaunnn12345?tab=repositories)
+**End-to-end AI-powered credit-card dispute resolution platform.**
+
+* 🧠 LLM-based evidence extraction
+* 📊 Rule-based scoring
+* 🤖 XGBoost prediction
+* 🔍 SHAP explainability
+* 👨‍💼 Confidence-based human routing
+* ⚙️ End-to-end AI decision workflow
+
+<p>
+  <a href="https://github.com/shauryasjadaunnn12345/VeriDisputeAI">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="VeriDispute AI Repository" />
+  </a>
+</p>
+
+---
+
+### 🤖 ZeroCodeBots
+
+**No-code AI chatbot builder for businesses.**
+
+* ⚙️ Django backend
+* 🤖 AI chatbot creation
+* 🌐 One-line website embed
+* 📊 Analytics dashboard
+* 🔐 User authentication
+* 🗄️ Database-backed chatbot management
+
+<p>
+  <a href="https://github.com/shauryasjadaunnn12345/zerocodebots">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ZeroCodeBots Repository" />
+  </a>
+</p>
+
+---
+
+### 🚀 StartupValidator.in
+
+**AI + community-powered startup validation platform.**
+
+* 💡 Startup idea submission
+* 👥 Peer feedback
+* 🤖 AI-assisted analysis
+* 🔎 Startup directory
+* 📊 Founder-focused validation workflow
+
+<p>
+  <a href="https://github.com/shauryasjadaunnn12345/startupvalidator">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="StartupValidator Repository" />
+  </a>
+</p>
+
+---
+
+### 🧠 ClinNote AI
+
+**AI-powered clinical documentation platform.**
+
+* 🤖 AI-powered note generation
+* 📝 Structured documentation
+* ⚙️ Django backend
+* 🌐 Full-stack web application
+* 📋 Multiple documentation formats
+
+<p>
+  <a href="https://github.com/shauryasjadaunnn12345/Clinnote">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ClinNote Repository" />
+  </a>
+</p>
+
+---
+
+### 🖥️ Multi-Threaded File Server
+
+**High-performance C++ file server demonstrating operating-system and concurrency concepts.**
+
+* 🧵 POSIX threads
+* 🧠 Shared memory
+* 🔒 Semaphores
+* ⚡ Concurrent request handling
+* 🐧 Linux systems programming
+
+<p>
+  <a href="https://github.com/shauryasjadaunnn12345/Multi-Threaded-File-Server">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Multi-Threaded File Server Repository" />
+  </a>
+</p>
+
+---
+
+## 🏆 What I Like Building
+
+```text
+AI Applications
+      ↓
+LLMs / RAG / ML
+      ↓
+Django REST APIs
+      ↓
+PostgreSQL
+      ↓
+Cloud Deployment
+      ↓
+Real-World Products
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shauryasjadaunnn12345&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryasjadaunnn12345&theme=dark&hide_border=false&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shauryasjadaunnn12345&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Shaurya's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryasjadaunnn12345&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shauryasjadaunnn12345&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shauryasjadaunnn12345&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryasjadaunnn12345&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
 ## 🌍 Let's Connect
 
-📫 Open to collaborating on:
+I'm interested in collaborating on:
 
-- ⚙️ Django backend systems & API design
-- 🤖 AI/ML and LLM-powered applications
-- 🐧 Linux / systems programming projects
-- 🚀 Startup tech collaborations
+* ⚙️ Django backend systems
+* 🤖 AI/ML & LLM applications
+* 🧠 RAG and AI agent projects
+* 🐧 Linux / systems programming
+* 🚀 AI-powered SaaS products
+* 🌐 Open-source projects
 
 <p align="center">
-  <a href="https://github.com/shauryasjadaunnn12345"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+  <a href="https://github.com/shauryasjadaunnn12345">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/shaurya-singh-b568b32a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Building • Learning • Shipping • Improving 🚀</b>
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=shauryasjadaunnn12345&icon=0&color=0" /></a>
+  <i>Thanks for visiting my profile!</i>
 </p>
